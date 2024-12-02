@@ -71,7 +71,7 @@ def detect_wake_word():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print(f"[{current_time}] TARS: Idle...")
 
-    speech = LiveSpeech(lm=False, keyphrase=WAKE_PHRASE, kws_threshold=1e-20)
+    speech = LiveSpeech(lm=False, keyphrase=WAKE_PHRASE, kws_threshold=1e-65)
     for phrase in speech:
         #print(f"Detected phrase: {phrase.hypothesis()}")
         if WAKE_PHRASE in phrase.hypothesis().lower():
