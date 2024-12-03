@@ -1,6 +1,6 @@
 ---
 
-# TARS from Interstellar x ChatGPT
+# TARS from Interstellar x Local AI
 
 ## Overview
 This project aims to build a replica of TARS from Interstellar integrated with ChatGPT functionalities. The build involves 3D printing parts, assembling hardware, and running software components for AI, text-to-speech, speech-to-text, and image classification.
