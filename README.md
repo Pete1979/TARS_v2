@@ -35,6 +35,7 @@ All parts are printed on Creality Ender 3. Use TPU for "Flexor" parts and PETG f
 - **Audio Amp**: [Link](https://www.amazon.com/dp/B0BTBS5NW2)
 - **Audio Speaker**: [Link](https://www.amazon.com/dp/B07GJ4GH67)
 - **Camera**: [Link](https://www.amazon.com/dp/B07GJ4GH67)
+- **Battery Monitor**: [Link](https://www.amazon.se/gp/product/B07YZ5HLVV/ref=ewc_pr_img_1?smid=A1A7E5ILEFA1R3&psc=1)
 
 ## Software Demo
 [![Video Title](https://img.youtube.com/vi/4YObs8BV3Mc/0.jpg)](https://www.youtube.com/watch?v=4YObs8BV3Mc)
